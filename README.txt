@@ -1,10 +1,13 @@
-﻿안녕하세요 왁굳형!
+﻿Game Directing & Programming: Juyeong Lee
+Character & World Design: Gabriel Loza
+Music: Kevin Khachatourians
+Sound Design & Programming: Andre Garibay
 
-시간이 많이 부족한 상태로 만든거라 버그도 많고 부족한 면이 많습니다
-게임은 천천히 즐겨주세요 :) 아니면 뭔가 작동이 안될수도 있어요;
+A game project that we worked on winter of 2018 for a contest hosted by 
+streamer named 우왁굳(wakgood)
 
-게임할때 여기저기 쏘다니면서 구경좀 해주세요 친구가 열심히 그렸습니다 ㅎㅎ
-그래도 끝에는 꼭 아랫길로 가주세요. 거기로가야 게임이 진행이 됩니다 ㅠㅠ
+We had shortage of time, so the game seems more like a demo than a 
+complete game.
 
-사랑해요 왁굳형! 앙 기분조아!
-
+We will continue to work on this project. However, the estimated times is 
+still undetermined.
